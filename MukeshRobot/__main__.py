@@ -76,25 +76,30 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-**•──────────────────────•**\n**❍ ʜᴇʏ {},\n**•──────────────────────•**\n**❍ ɪ ᴀᴍ {},**\n**❍ ɪ ʜᴀᴠᴇ sᴘᴇᴄɪᴀʟ ғᴇᴀᴛᴜʀᴇs**\n**•──────────────────────•**\n**❍ ᴜsᴇʀs ➛ {} **\n**❍ ᴄʜᴀᴛs ➛ {} **\n**•──────────────────────•**\n**❍ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ғᴇᴀᴛᴜʀᴇs**\n**ᴍᴜsɪᴄ ʙᴏᴛ + ᴄʜᴀᴛʙᴏᴛ + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ**\n**•──────────────────────•**"""
+**•──────────────────────•**\n**❍ ʜᴇʏ {},\n**•──────────────────────•**\n**Hello {}, My name's Mitsuri.
+I am an AI Intergrated Anime Themed Advanced Group Management Bot with some fun features.
+Make sure you read About Me section below.
+Click /help to find out more commands of mine and know to full use of me!
+
+Join my [News Channel](t.me/Affluence_Shield) to get information on all latest updates.**"""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •", 
+            text="➕ Add Misturi to Group ➕", 
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true", 
         ),
     ],
     [
-        InlineKeyboardButton(text="• ʀᴇᴘᴏ •", callback_data="gib_source"),
-        InlineKeyboardButton(text="• ᴀʙᴏᴜᴛ •", callback_data="mukesh_"),
+        InlineKeyboardButton(text="📡 Network", url=f"https://t.me/Affluence_Shield"),
+        InlineKeyboardButton(text="💎 Crypto", callback_data="mukesh_"),
     ],
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"),
-        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🔓 Updates", url=f"https://t.me/ShieldUpdates"),
+        InlineKeyboardButton(text="🍿 Support", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="• ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs •", callback_data="Main_help"),
+        InlineKeyboardButton(text="⚙️ Guidelines ⚙️", callback_data="Main_help"),
     ],
 
 ]
@@ -102,8 +107,8 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/botkild"),
-        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🔓 Updates", url=f"https://t.me/ShieldUpdates"),
+        InlineKeyboardButton(text="🍿 Support", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
