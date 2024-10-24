@@ -122,14 +122,15 @@ HELP_STRINGS = f"""
 ❍ *{BOT_NAME}  ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ ᴀʙᴏᴜᴛ sᴘᴇᴄɪғɪᴄs ᴄᴏᴍᴍᴀɴᴅ*"""
 
 ABHI = [
-"https://telegra.ph/file/f19e32b1b5b515956b402.jpg",
-"https://telegra.ph/file/1d4c6826797fb36ea5b92.jpg",
-"https://telegra.ph/file/8c9296b3ec2a367e159e9.jpg",
-"https://telegra.ph/file/129ccbaa0c0b05477a3f7.jpg",
-"https://telegra.ph/file/9e9c427b50a359b428ae2.jpg",
-"https://telegra.ph/file/4a1ea9ab5b3d2b9f9ac65.jpg",
-"https://telegra.ph/file/e1da13730ffaff4d82aef.jpg",
-"https://telegra.ph/file/f8334227993b76fd2e5af.jpg",
+"https://files.catbox.moe/gafc8i.jpg",
+"https://files.catbox.moe/d0kxep.jpg",
+"https://files.catbox.moe/xq3fn2.jpg",
+"https://files.catbox.moe/n78eww.jpg",
+"https://files.catbox.moe/3lqrj8.jpg"
+"https://files.catbox.moe/xpll1h.jpg",
+"https://files.catbox.moe/fj95du.jpg",
+"https://files.catbox.moe/7y06c3.jpg",
+"https://files.catbox.moe/apd9v5.jpg",
 "https://telegra.ph/file/3b9208b7966104c19ec85.jpg",
 "https://telegra.ph/file/6f7be044a44d25a04d381.jpg",     
 
